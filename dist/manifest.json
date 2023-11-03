@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Yogi's Quote",
+    "version": "1.0.0",
+    "description": "Random Quote By Yogi",
+    "host_permissions": ["https://zenquotes.io/"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "images/logo-16x16.png",
+        "48": "images/logo-48x48.png",
+        "192": "images/logo-192x192.png"
+      }
+    }
+  }
